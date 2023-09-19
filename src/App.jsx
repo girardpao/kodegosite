@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
-import Header from "./views/Header";
-import Footer from "./views/Footer";
 import routes from "./routes";
+import Header from "./views/Header/Header";
+import Footer from "./views/Footer/Footer";
 
 const App = () => {
   return (
