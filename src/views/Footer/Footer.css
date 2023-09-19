@@ -1,0 +1,21 @@
+footer {
+  background-color: #284265;
+}
+
+p.footer-title {
+  color: white;
+  font-weight: bold;
+}
+
+p.footer-address {
+  color: #c7c7cc;
+}
+
+a.footer-link {
+  color: #c7c7cc;
+}
+
+ul li a.footer-links {
+  color: #c7c7cc;
+  text-decoration: none;
+}

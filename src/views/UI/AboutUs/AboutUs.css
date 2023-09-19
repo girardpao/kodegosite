@@ -1,0 +1,47 @@
+.about {
+  width: 100%;
+  padding: 100px 0px;
+  background-image: url(../../../assets/kodego-hero-background.png);
+}
+
+.about img {
+  height: auto;
+  width: 100%;
+}
+
+.about-text {
+  max-width: 550px;
+}
+
+.about h1 {
+  color: white;
+  font-weight: 800;
+  font-size: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.about-text p {
+  color: white;
+  font-size: 18px;
+  margin-bottom: 45px;
+  letter-spacing: 1px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+  width: 100%;
+  max-width: 1130px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+button.btn.btn-success {
+  background-color: #a3cb38;
+  border-color: #4c9007;
+  font-size: bold;
+  width: 300px;
+  height: 50px;
+}
